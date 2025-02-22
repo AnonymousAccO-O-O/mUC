@@ -1,4 +1,4 @@
 ## mUC
 
-This is the repository for artifact of paper in TACAS'25.
+This is the repository for artifact of paper in SPIN'25.
 
